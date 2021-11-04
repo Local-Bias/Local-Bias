@@ -1,4 +1,8 @@
-### Hi there 👋
+### こんにちは 👋
+
+はじめまして、Ribbitと申します。
+
+会計事務所で働いています。
 
 [blog](https://ribbit.work)
 [portfolio](https://ribbit.icu)
