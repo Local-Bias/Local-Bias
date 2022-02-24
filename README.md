@@ -1,11 +1,11 @@
 ### こんにちは 👋
 
-はじめまして、Ribbitと申します。
+はじめまして、佐藤 佳久と申します。
 
 会計事務所で働いています。
 
-[blog](https://ribbit.work)
-[portfolio](https://ribbit.icu)
+[blog](https://ribbit.konomi.app)
+[portfolio](https://icu.konomi.app)
 
 [![Ribbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=local-bias)](https://github.com/anuraghazra/github-readme-stats)
 
