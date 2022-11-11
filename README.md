@@ -4,10 +4,17 @@
 
 会計事務所で働いています。
 
-[blog](https://ribbit.konomi.app)
-[portfolio](https://icu.konomi.app)
+[ブログ](https://ribbit.konomi.app)
 
-[![Ribbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=local-bias)](https://github.com/anuraghazra/github-readme-stats)
+[ポートフォリオ](https://icu.konomi.app)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=local-bias" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=local-bias" />
+</a>
+
 
 <!--
 **Local-Bias/Local-Bias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
