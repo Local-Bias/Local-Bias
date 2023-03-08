@@ -1,12 +1,19 @@
-### こんにちは 👋
 
-はじめまして、Ribbitと申します。
+<a href="https://ribbit.konomi.app">
+  <div>
+    <img src="https://assets.konomi.app/img/feather/home.svg" height="20" />　ブログ
+  </div>
+</a>
 
-会計事務所で働いています。
+<p></p>
 
-[ブログ](https://ribbit.konomi.app)
+<a href="https://icu.konomi.app">
+  <div>
+    <img src="https://assets.konomi.app/img/feather/user.svg" height="20" />　ポートフォリオ
+  </div>
+</a>
 
-[ポートフォリオ](https://icu.konomi.app)
+<p></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=local-bias" />
